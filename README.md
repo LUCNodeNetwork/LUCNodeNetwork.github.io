@@ -1,14 +1,14 @@
 Commands for Pi Cluster Setup:
 
-sudo apt update
+1. sudo apt update
 
-sudo apt full-upgrade
+2. sudo apt full-upgrade
 
-sudo apt install rpi-eeprom
+3. sudo apt install rpi-eeprom
 
-sudo rpi-eeprom-update -a
+4. sudo rpi-eeprom-update -a
 
-sudo rpi-eeprom-config --edit
+5. sudo rpi-eeprom-config --edit
 
 
 Pi Network Access Instructions:
