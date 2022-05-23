@@ -1,7 +1,7 @@
 
 
 
-Commands for Pi Cluster Setup:
+##Commands for Pi Cluster Setup:
 
 1. sudo apt update
 
@@ -14,7 +14,7 @@ Commands for Pi Cluster Setup:
 5. sudo rpi-eeprom-config --edit
 
 
-Pi Network Access Instructions:
+##Pi Network Access Instructions:
 
 1. Sign into VPN (Global Protect)
 
