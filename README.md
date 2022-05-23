@@ -15,7 +15,7 @@ Pi Network Access Instructions:
 
 1. Sign into VPN (Global Protect)
 
-2. SSH into Pigateway // ssh desktop@192.168.101.208
+2. SSH into the Pi's gateway // ssh desktop@192.168.101.208
 
 3. SSH into Pi // ssh pi@192.168.102.200
 
