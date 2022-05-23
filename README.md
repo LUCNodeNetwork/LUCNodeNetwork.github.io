@@ -1,4 +1,4 @@
-Commands for setting up pi cluster:
+Commands for Pi Cluster Setup:
 
 sudo apt update
 
@@ -10,6 +10,13 @@ sudo rpi-eeprom-update -a
 
 sudo rpi-eeprom-config --edit
 
-	Boot_order=Ox21
-	
-	tftp_ip=192.168.102.1
+
+Pi Network Access Instructions:
+
+1. Sign into VPN (Global Protect)
+
+2. SSH into Pigateway // ssh desktop@192.168.101.208
+
+3. SSH into Pi // ssh pi@192.168.102.200
+
+
